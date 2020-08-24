@@ -81,6 +81,12 @@
 
 </details>
 
+<details>
+  <summary>:sparkles: Recent Github Activity</summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+</details>
+
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
 [instagram]: https://instagram.com/_rajalok_
