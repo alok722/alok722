@@ -67,6 +67,13 @@
 
 ---
 
+<details>
+  <summary>:heart: Most used language</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok722&layout=compact)](https://github.com/alok722/github-readme-stats)
+
+</details>
+
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
 [instagram]: https://instagram.com/_rajalok_
