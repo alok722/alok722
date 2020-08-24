@@ -74,6 +74,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=vue" />
+
+</details>
+
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
 [instagram]: https://instagram.com/_rajalok_
