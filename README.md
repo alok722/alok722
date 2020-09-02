@@ -87,11 +87,11 @@
   
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//alok722/nestJs-Intro/pull/2) in [alok722/nestJs-Intro](https://github.com//alok722/nestJs-Intro)
-2. 🎉 Merged PR [#4](https://github.com//alok722/pwa-movie-browser/pull/4) in [alok722/pwa-movie-browser](https://github.com//alok722/pwa-movie-browser)
-3. 🎉 Merged PR [#4](https://github.com//alok722/angular-news/pull/4) in [alok722/angular-news](https://github.com//alok722/angular-news)
-4. 🎉 Merged PR [#6](https://github.com//alok722/picsum-gallery-angular/pull/6) in [alok722/picsum-gallery-angular](https://github.com//alok722/picsum-gallery-angular)
-5. ❌ Closed PR [#491](https://github.com//bradtraversy/design-resources-for-developers/pull/491) in [bradtraversy/design-resources-for-developers](https://github.com//bradtraversy/design-resources-for-developers)
+1. 🎉 Merged PR [#3](https://github.com//alok722/react-tutorial-beginner-udemy/pull/3) in [alok722/react-tutorial-beginner-udemy](https://github.com//alok722/react-tutorial-beginner-udemy)
+2. 🎉 Merged PR [#4](https://github.com//alok722/pwa-poor-joke/pull/4) in [alok722/pwa-poor-joke](https://github.com//alok722/pwa-poor-joke)
+3. 🎉 Merged PR [#4](https://github.com//alok722/conFusion/pull/4) in [alok722/conFusion](https://github.com//alok722/conFusion)
+4. 🎉 Merged PR [#7](https://github.com//alok722/contact_mean_app/pull/7) in [alok722/contact_mean_app](https://github.com//alok722/contact_mean_app)
+5. 🎉 Merged PR [#2](https://github.com//alok722/nestJs-Intro/pull/2) in [alok722/nestJs-Intro](https://github.com//alok722/nestJs-Intro)
  <!--END_SECTION:activity-->
  
  
