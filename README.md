@@ -87,11 +87,11 @@
   
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//alok722/react-tutorial-beginner-udemy/pull/3) in [alok722/react-tutorial-beginner-udemy](https://github.com//alok722/react-tutorial-beginner-udemy)
-2. 🎉 Merged PR [#4](https://github.com//alok722/pwa-poor-joke/pull/4) in [alok722/pwa-poor-joke](https://github.com//alok722/pwa-poor-joke)
-3. 🎉 Merged PR [#4](https://github.com//alok722/conFusion/pull/4) in [alok722/conFusion](https://github.com//alok722/conFusion)
-4. 🎉 Merged PR [#7](https://github.com//alok722/contact_mean_app/pull/7) in [alok722/contact_mean_app](https://github.com//alok722/contact_mean_app)
-5. 🎉 Merged PR [#2](https://github.com//alok722/nestJs-Intro/pull/2) in [alok722/nestJs-Intro](https://github.com//alok722/nestJs-Intro)
+1. 🎉 Merged PR [#7](https://github.com//alok722/picsum-gallery-angular/pull/7) in [alok722/picsum-gallery-angular](https://github.com//alok722/picsum-gallery-angular)
+2. 🎉 Merged PR [#5](https://github.com//alok722/conFusion/pull/5) in [alok722/conFusion](https://github.com//alok722/conFusion)
+3. 🎉 Merged PR [#3](https://github.com//alok722/react-tutorial-beginner-udemy/pull/3) in [alok722/react-tutorial-beginner-udemy](https://github.com//alok722/react-tutorial-beginner-udemy)
+4. 🎉 Merged PR [#4](https://github.com//alok722/pwa-poor-joke/pull/4) in [alok722/pwa-poor-joke](https://github.com//alok722/pwa-poor-joke)
+5. 🎉 Merged PR [#4](https://github.com//alok722/conFusion/pull/4) in [alok722/conFusion](https://github.com//alok722/conFusion)
  <!--END_SECTION:activity-->
  
  
