@@ -87,11 +87,11 @@
   
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//open-devs/fastify-typescript-generator/pull/6) in [open-devs/fastify-typescript-generator](https://github.com//open-devs/fastify-typescript-generator)
-2. 🗣 Commented on [#93](https://github.com//Chakroun-Anas/turbo-console-log/issues/93) in [Chakroun-Anas/turbo-console-log](https://github.com//Chakroun-Anas/turbo-console-log)
-3. 🎉 Merged PR [#6](https://github.com//alok722/conFusion/pull/6) in [alok722/conFusion](https://github.com//alok722/conFusion)
-4. 🎉 Merged PR [#8](https://github.com//alok722/picsum-gallery-angular/pull/8) in [alok722/picsum-gallery-angular](https://github.com//alok722/picsum-gallery-angular)
-5. 🎉 Merged PR [#7](https://github.com//alok722/picsum-gallery-angular/pull/7) in [alok722/picsum-gallery-angular](https://github.com//alok722/picsum-gallery-angular)
+1. 🎉 Merged PR [#8](https://github.com//alok722/contact_mean_app/pull/8) in [alok722/contact_mean_app](https://github.com//alok722/contact_mean_app)
+2. 🎉 Merged PR [#5](https://github.com//alok722/angular-news/pull/5) in [alok722/angular-news](https://github.com//alok722/angular-news)
+3. 🎉 Merged PR [#5](https://github.com//alok722/pwa-movie-browser/pull/5) in [alok722/pwa-movie-browser](https://github.com//alok722/pwa-movie-browser)
+4. 🎉 Merged PR [#5](https://github.com//alok722/pwa-poor-joke/pull/5) in [alok722/pwa-poor-joke](https://github.com//alok722/pwa-poor-joke)
+5. 🎉 Merged PR [#4](https://github.com//alok722/react-tutorial-beginner-udemy/pull/4) in [alok722/react-tutorial-beginner-udemy](https://github.com//alok722/react-tutorial-beginner-udemy)
  <!--END_SECTION:activity-->
  
  
