@@ -87,11 +87,11 @@
   
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/alok722/contact_mean_app/pull/8) in [alok722/contact_mean_app](https://github.com/alok722/contact_mean_app)
-2. 🎉 Merged PR [#5](https://github.com/alok722/angular-news/pull/5) in [alok722/angular-news](https://github.com/alok722/angular-news)
-3. 🎉 Merged PR [#5](https://github.com/alok722/pwa-movie-browser/pull/5) in [alok722/pwa-movie-browser](https://github.com/alok722/pwa-movie-browser)
-4. 🎉 Merged PR [#5](https://github.com/alok722/pwa-poor-joke/pull/5) in [alok722/pwa-poor-joke](https://github.com/alok722/pwa-poor-joke)
-5. 🎉 Merged PR [#4](https://github.com/alok722/react-tutorial-beginner-udemy/pull/4) in [alok722/react-tutorial-beginner-udemy](https://github.com/alok722/react-tutorial-beginner-udemy)
+1. 💪 Opened PR [#8](https://github.com/theankitgaurav/Perfect-New-Tab/pull/8) in [theankitgaurav/Perfect-New-Tab](https://github.com/theankitgaurav/Perfect-New-Tab)
+2. 🎉 Merged PR [#8](https://github.com/alok722/contact_mean_app/pull/8) in [alok722/contact_mean_app](https://github.com/alok722/contact_mean_app)
+3. 🎉 Merged PR [#5](https://github.com/alok722/angular-news/pull/5) in [alok722/angular-news](https://github.com/alok722/angular-news)
+4. 🎉 Merged PR [#5](https://github.com/alok722/pwa-movie-browser/pull/5) in [alok722/pwa-movie-browser](https://github.com/alok722/pwa-movie-browser)
+5. 🎉 Merged PR [#5](https://github.com/alok722/pwa-poor-joke/pull/5) in [alok722/pwa-poor-joke](https://github.com/alok722/pwa-poor-joke)
  <!--END_SECTION:activity-->
  
  
