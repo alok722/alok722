@@ -87,11 +87,11 @@
   
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/singhayushh/project_Bookmarks/issues/13) in [singhayushh/project_Bookmarks](https://github.com/singhayushh/project_Bookmarks)
-2. 💪 Opened PR [#13](https://github.com/singhayushh/project_Bookmarks/pull/13) in [singhayushh/project_Bookmarks](https://github.com/singhayushh/project_Bookmarks)
-3. 💪 Opened PR [#11](https://github.com/troy-johnson/discord-bot/pull/11) in [troy-johnson/discord-bot](https://github.com/troy-johnson/discord-bot)
-4. 🎉 Merged PR [#7](https://github.com/open-devs/fastify-typescript-generator/pull/7) in [open-devs/fastify-typescript-generator](https://github.com/open-devs/fastify-typescript-generator)
-5. 💪 Opened PR [#7](https://github.com/open-devs/fastify-typescript-generator/pull/7) in [open-devs/fastify-typescript-generator](https://github.com/open-devs/fastify-typescript-generator)
+1. ❗️ Opened issue [#9](https://github.com/alok722/picsum-gallery-angular/issues/9) in [alok722/picsum-gallery-angular](https://github.com/alok722/picsum-gallery-angular)
+2. ❗️ Opened issue [#1](https://github.com/alok722/portfolio/issues/1) in [alok722/portfolio](https://github.com/alok722/portfolio)
+3. ❗️ Opened issue [#2](https://github.com/alok722/express-server-boilerplate/issues/2) in [alok722/express-server-boilerplate](https://github.com/alok722/express-server-boilerplate)
+4. ❗️ Opened issue [#1](https://github.com/alok722/express-server-boilerplate/issues/1) in [alok722/express-server-boilerplate](https://github.com/alok722/express-server-boilerplate)
+5. 🗣 Commented on [#13](https://github.com/singhayushh/project_Bookmarks/issues/13) in [singhayushh/project_Bookmarks](https://github.com/singhayushh/project_Bookmarks)
  <!--END_SECTION:activity-->
  
  
