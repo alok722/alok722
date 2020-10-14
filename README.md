@@ -91,6 +91,7 @@
 <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate)](https://github.com/alok722/express-server-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth)](https://github.com/alok722/express-server-boilerplate-auth)
 
 
 [website]: https://opendevs.in
