@@ -27,8 +27,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -63,15 +61,23 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <br />
 <br />
 
 ---
 
 <details>
-  <summary>:heart: Most used language</summary>
+  <summary>:heart: Most used language/libraries/frameworks</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok722&layout=compact)](https://github.com/alok722/github-readme-stats)
++ HTML, CSS & CSS libraries
++ Javascript
++ Typescript
++ Angular
++ VueJs
++ Express
++ MongoDB
 
 </details>
 
@@ -82,20 +88,10 @@
 
 </details>
 
-<details>
-  <summary>:sparkles: Recent Github Activity</summary>
-  
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/alok722/picsum-gallery-angular/issues/9) in [alok722/picsum-gallery-angular](https://github.com/alok722/picsum-gallery-angular)
-2. ❗️ Opened issue [#1](https://github.com/alok722/portfolio/issues/1) in [alok722/portfolio](https://github.com/alok722/portfolio)
-3. ❗️ Opened issue [#2](https://github.com/alok722/express-server-boilerplate/issues/2) in [alok722/express-server-boilerplate](https://github.com/alok722/express-server-boilerplate)
-4. ❗️ Opened issue [#1](https://github.com/alok722/express-server-boilerplate/issues/1) in [alok722/express-server-boilerplate](https://github.com/alok722/express-server-boilerplate)
-5. 🗣 Commented on [#13](https://github.com/singhayushh/project_Bookmarks/issues/13) in [singhayushh/project_Bookmarks](https://github.com/singhayushh/project_Bookmarks)
- <!--END_SECTION:activity-->
- 
- 
-</details>
+<br/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate)](https://github.com/alok722/express-server-boilerplate)
+
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
