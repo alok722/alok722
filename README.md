@@ -89,8 +89,8 @@
 
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true)](https://github.com/alok722/express-server-boilerplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true)](https://github.com/alok722/express-server-boilerplate-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate-auth)
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
