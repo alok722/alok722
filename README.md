@@ -11,17 +11,16 @@
 - 🌱 I’m a JavaScript enthusiast. 🧡
 - 💬 Ask me about Javascript. 🙌
 - 👯 I’m looking to collaborate with other open source contributer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch series.
 
 
 ### Connect with me:
 
-[<img align="left" alt="opendevs.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alok722 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="alok722 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alok722 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="alok722 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<a href="https://twitter.com/alok722" target="_blank"><img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-24x24.png"/></a>
+<a href="https://linkedin.com/in/alok722" target="_blank"><img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png"/></a>
+<a href="https://instagram.com/alok722_" target="_blank"><img align="left" alt="instagram" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/instagram-24x24.png"/></a>
+<a href="https://facebook.com/alok722" target="_blank"><img align="left" alt="facebook" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/facebook-24x24.png"/></a>
 
 <br />
 
@@ -84,15 +83,14 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=vue" />
+  <img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
 
 </details>
 
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate)](https://github.com/alok722/express-server-boilerplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth)](https://github.com/alok722/express-server-boilerplate-auth)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true)](https://github.com/alok722/express-server-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true)](https://github.com/alok722/express-server-boilerplate-auth)
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
