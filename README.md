@@ -5,9 +5,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
 
-## I'm a Learner, Developer, and a Friend!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
-- 🔭 I’m currently working on [opendevs][website] !
+## I'm an Indian (<code>IN</code>), Learner, JS developer, and a friend!🙌
+
+- 🔥 I'm co-founder of open source initiate [open-devs](website) 
 - 🌱 I’m a JavaScript enthusiast. 🧡
 - 💬 Ask me about Javascript. 🙌
 - 👯 I’m looking to collaborate with other open source contributer
@@ -67,27 +69,23 @@
 
 ---
 
-<details>
-  <summary>:heart: Most used language/libraries/frameworks</summary>
+### Blogs posts:
+- [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a)
+- [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4)
+- [Roadmap to become Web Developer with free resources [updated]](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5)
 
-+ HTML, CSS & CSS libraries
-+ Javascript
-+ Typescript
-+ Angular
-+ VueJs
-+ Express
-+ MongoDB
+<br />
 
-</details>
+---
+### Stats
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok722&show_icons=true&locale=en&layout=compact" alt="alok722" /></p>
 
-  <img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
+<img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
 
-</details>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok722" alt="alok722" /></a> </p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&" alt="alok722" /></p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate-auth)
