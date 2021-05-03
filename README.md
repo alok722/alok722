@@ -79,16 +79,14 @@
 ---
 ### Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok722&show_icons=true&locale=en&layout=compact" alt="alok722" /></p>
+<img align="center" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
 
-<img align="left" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok722" alt="alok722" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&" alt="alok722" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=dark&hide_border=true" alt="alok722" />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=dark)](https://github.com/carefortheliving/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=react-gif-finder&show_owner=true&theme=dark)](https://github.com/alok722/react-gif-finder)
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
