@@ -10,10 +10,9 @@
 ## I'm an Indian (<code>IN</code>), Learner, JS developer, and a friend!🙌
 
 - 🔥 I'm co-founder of open source initiate [open-devs](website) 
-- 🌱 I’m a JavaScript enthusiast. 🧡
+- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
 - 💬 Ask me about Javascript. 🙌
 - 👯 I’m looking to collaborate with other open source contributer
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch series.
 
 
