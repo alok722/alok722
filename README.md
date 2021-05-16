@@ -1,4 +1,7 @@
-### Hi there, I'm [Alok Raj][linkedin]👋
+<h1>Hello World!&nbsp;<img src="https://github.com/alok722/alok722/blob/main/images/gif/Earth.gif" width="24px"></h1>
+
+<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj</a> &nbsp;<img src="https://github.com/alok722/alok722/blob/main/image/Gif/Hi.gif" width="24px"></h2>
+
 
 [![Website](https://img.shields.io/website?label=alokraj.tech&style=for-the-badge&url=https://alokraj.tech)](https://alokraj.tech)
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
@@ -7,7 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
-## I'm an Indian (<code>IN</code>), Learner, JS developer, and a friend!🙌
+Current Web UI Developer at Globant with 2+ years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
+& its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
+method for challenging tasks, and learning new technologies and tools if the need arises.
+## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
 - 🔥 I'm co-founder of open source initiate [open-devs](website) 
 - 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
@@ -16,7 +22,7 @@
 - ⚡ Fun fact: I love to watch series.
 
 
-### Connect with me:
+<h3>Connect with me <img src="https://github.com/alok722/alok722/blob/main/images/gif/Handshake.gif" height="24px" /></h3>
 
 <a href="https://twitter.com/alok722" target="_blank"><img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-24x24.png"/></a>
 <a href="https://linkedin.com/in/alok722" target="_blank"><img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png"/></a>
@@ -25,7 +31,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools 💻
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -76,16 +82,19 @@
 <br />
 
 ---
-### Stats
+### ⚙️ Stats
 
-<img align="center" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark" />
+<img align="center" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=algolia" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=dark&hide_border=true" alt="alok722" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=dark)](https://github.com/alok722/express-server-boilerplate-auth)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=dark)](https://github.com/carefortheliving/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=react-gif-finder&show_owner=true&theme=dark)](https://github.com/alok722/react-gif-finder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=react-gif-finder&show_owner=true&theme=algolia)](https://github.com/alok722/react-gif-finder)
+
+## Let's get back to Coding!
+<img src="https://github.com/alok722/alok722/blob/main/images/gif/Developer.gif" width="200px"/>
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
