@@ -1,7 +1,6 @@
 <h1>Hello World!&nbsp;<img src="https://github.com/alok722/alok722/blob/master/images/gif/Earth.gif" width="24px"></h1>
 
-<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj </a><img src="https://github.com/alok722/alok722/blob/master/image/gif/Hi.gif" width="24px"></h2>
-
+<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj </a><img src="https://github.com/alok722/alok722/blob/master/images/gif/Hi.gif" width="24px"></h2>
 
 [![Website](https://img.shields.io/website?label=alokraj.tech&style=for-the-badge&url=https://alokraj.tech)](https://alokraj.tech)
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
