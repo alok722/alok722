@@ -1,6 +1,6 @@
-<h1>Hello World!&nbsp;<img src="https://github.com/alok722/alok722/blob/main/images/gif/Earth.gif" width="24px"></h1>
+<h1>Hello World!&nbsp;<img src="https://github.com/alok722/alok722/blob/master/images/gif/Earth.gif" width="24px"></h1>
 
-<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj</a> &nbsp;<img src="https://github.com/alok722/alok722/blob/main/image/Gif/Hi.gif" width="24px"></h2>
+<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj</a> &nbsp;<img src="https://github.com/alok722/alok722/blob/master/image/Gif/Hi.gif" width="24px"></h2>
 
 
 [![Website](https://img.shields.io/website?label=alokraj.tech&style=for-the-badge&url=https://alokraj.tech)](https://alokraj.tech)
@@ -22,7 +22,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 - ⚡ Fun fact: I love to watch series.
 
 
-<h3>Connect with me <img src="https://github.com/alok722/alok722/blob/main/images/gif/Handshake.gif" height="24px" /></h3>
+<h3>Connect with me <img src="https://github.com/alok722/alok722/blob/master/images/gif/Handshake.gif" height="24px" /></h3>
 
 <a href="https://twitter.com/alok722" target="_blank"><img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-24x24.png"/></a>
 <a href="https://linkedin.com/in/alok722" target="_blank"><img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png"/></a>
@@ -94,7 +94,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=react-gif-finder&show_owner=true&theme=algolia)](https://github.com/alok722/react-gif-finder)
 
 ## Let's get back to Coding!
-<img src="https://github.com/alok722/alok722/blob/main/images/gif/Developer.gif" width="200px"/>
+<img src="https://github.com/alok722/alok722/blob/master/images/gif/Developer.gif" width="200px"/>
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
