@@ -30,7 +30,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 <br />
 
-### Languages and Tools 💻
+### 😎 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -73,7 +73,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ---
 
-### Blogs posts:
+### 📝 Blogs posts:
 - [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a)
 - [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4)
 - [Roadmap to become Web Developer with free resources [updated]](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5)
@@ -81,9 +81,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <br />
 
 ---
-### ⚙️ Stats
-
-<img align="center" alt="alok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alok722&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=algolia" />
+### ⚙️ Starred Repos
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 
@@ -92,7 +90,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=react-gif-finder&show_owner=true&theme=algolia)](https://github.com/alok722/react-gif-finder)
 
-## Let's get back to Coding!
+### 💻 Let's get back to Coding!
 <img src="https://github.com/alok722/alok722/blob/master/images/gif/Developer.gif" width="200px"/>
 
 [website]: https://opendevs.in
