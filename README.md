@@ -42,6 +42,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <br />
 <br />
 ---
+
 ### ⚙️ Stats
 
 📊 **This week I spent my time on**
