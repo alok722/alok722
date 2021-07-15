@@ -20,6 +20,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YDKJS — UP & GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
 - [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
 - [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4?source=rss-e10e116247f8------2)
 - [Roadmap to become Web Developer in 2020](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5?source=rss-e10e116247f8------2)
