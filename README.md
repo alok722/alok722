@@ -52,7 +52,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 📊 **This week I spent my time on**
 
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true&langs_count=5)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok722&show_icons=true&locale=en&layout=compact" alt="alok722" /></p>
