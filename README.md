@@ -135,8 +135,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true)
 
 <p>
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 </p>
   
 ## ⭐ Starred Repository
