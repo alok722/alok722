@@ -134,11 +134,11 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" /></p>
-
+<p>
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
+</p>
+  
 ## ⭐ Starred Repository
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=namaste-javascript-notes&show_owner=true&theme=algolia)](https://github.com/alok722/namaste-javascript-notes)
