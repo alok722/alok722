@@ -148,13 +148,6 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate-auth)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
 
-## 📈 Repository Indexed
-
-<details>
- <summary>Andoid</summary>
- * [TEST](https://)
-</details>
-
 ### 💻 Let's get back to Coding!
 <img src="./images/gif/Developer.gif" width="200px"/>
 
