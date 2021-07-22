@@ -1,4 +1,6 @@
-<h1 align="center">I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj </a><img src="./images/gif/Hi.gif" width="24px"></h1>
+<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Sr.%20Software%20Engineer%20@Globant%20|%20JavaScript%20Nerdwidth='100%'">
+
+<br>
 
 [![Website](https://img.shields.io/website?label=alokraj.tech&style=for-the-badge&url=https://alokraj.tech)](https://alokraj.tech)
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
@@ -135,8 +137,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true)
 
 <p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
-<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
+<img width="380px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 </p>
   
 ## ⭐ Starred Repository
@@ -145,6 +147,13 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate-auth)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
+
+## 📈 Repository Indexed
+
+<details>
+ <summary>Andoid</summary>
+ * [TEST](https://)
+</details>
 
 ### 💻 Let's get back to Coding!
 <img src="./images/gif/Developer.gif" width="200px"/>
