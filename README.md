@@ -17,7 +17,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 - 🔥 I'm co-founder of open source initiate [open-devs](website) 
 - 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
-- 💬 Talk to me about full stack Javascript. 🙌
+- 💬 Ask me about React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I think, I am in Love with Javascript.
 ## 📕 Latest Blog Posts
@@ -132,13 +132,18 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ## ⚙️ Stats
 
-📊 **This week I spent my time on**
+<p align="center">📊 This Week, I spent time on</p>
 
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true)
+<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true&theme=algolia" alt="alok722 wakatime stat" /></p>
+<br />
 
-<p>
-<img width="380px" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en" alt="alok722" />
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en&theme=algolia" alt="alok722" />
+</p>
+<br />
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 </p>
   
 ## ⭐ Starred Repository
@@ -148,8 +153,10 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate-auth)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
 
-### 💻 Let's get back to Coding!
-<img src="./images/gif/Developer.gif" width="200px"/>
+<br/>
+
+<p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
+
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
