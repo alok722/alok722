@@ -58,7 +58,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Vue.js" src="https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D"/>
 <img alt="Pwa" src="https://img.shields.io/badge/pwa-%23593d88.svg?style=for-the-badge&logo=pwa&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -86,6 +86,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
@@ -133,9 +134,12 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ## ⚙️ Stats
 
+<p align="center"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alok722&show-avatar=true&style=--header-bg-color:%23000;--border-radius:0" alt="alok722 wakatime stat" /></p>
+<br />
+
 <p align="center">📊 This Week, I spent time on</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true&theme=algolia" alt="alok722 wakatime stat" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alok722&hide_title=true&hide_border=true&theme=algolia" alt="alok722 codersrank stat" /></p>
 <br />
 
 <p align="center">
