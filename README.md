@@ -134,7 +134,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ## ⚙️ Stats
 
-<p align="center"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alok722&show-avatar=true" alt="alok722 codersrank stat" /></p>
+<p align="center"><a href="https://profile.codersrank.io/user/alok722/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alok722&show-avatar=true" alt="alok722 codersrank stat" /></a></p>
 <br />
 
 <p align="center">📊 This Week, I spent time on</p>
