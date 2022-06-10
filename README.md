@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLL%20|%20JavaScript%20Nerdwidth='100%'">
+<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLL%20|%20JavaScript%20♥&width='100%'">
 
 <br>
 
