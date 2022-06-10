@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Sr.%20Software%20Engineer%20@Globant%20|%20JavaScript%20Nerdwidth='100%'">
+<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLLTechnologies%20|%20JavaScript%20Nerdwidth='100%'">
 
 <br>
 
@@ -10,19 +10,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
-Current Web UI Developer at Globant with **3+** years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
-& its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
-method for challenging tasks, and learning new technologies and tools if the need arises.
+Current Product Engineer at **JLL Technologies** with **3+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-- 🔥 I'm co-founder of open source initiate [open-devs](website) 
+- 🔥 I'm co-founder of open source initiate [open-devs](website) & [dev11](https://dev11.in)
 - 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
-- 💬 Ask me about React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice.. 🙌
+- 💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I think, I am in Love with Javascript.
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
 - [YDKJS — UP &amp; GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
 - [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
@@ -47,6 +48,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 ## 🚀 Languages and Tools
 
 ### 👉 Front-end
+
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
@@ -58,6 +60,7 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Vue.js" src="https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D"/>
 <img alt="Pwa" src="https://img.shields.io/badge/pwa-%23593d88.svg?style=for-the-badge&logo=pwa&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="GraphQL Client" src="https://img.shields.io/badge/graphql%20Client-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -69,7 +72,6 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
-
 ### 👉 Back-end
 
 <p>
@@ -77,10 +79,11 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+<img alt="GraphQL Server" src="https://img.shields.io/badge/graphql%20Server-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-
 ### 👉 Programming Language
+
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -90,8 +93,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-
 ### 👉 Database
+
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -100,16 +103,16 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
-
 ### 👉 Unit Testing
+
 <p>
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 </p>
 
-
 ### 👉 Version Control
+
 <p>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -117,8 +120,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
 
-
 ### 👉 Others
+
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -162,9 +165,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
 
-
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
-[instagram]: https://instagram.com/_rajalok_
+[instagram]: https://instagram.com/alok722_
 [linkedin]: https://linkedin.com/in/alok722
 [facebook]: https://fb.com/alok722
