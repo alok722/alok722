@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLLTechnologies%20|%20JavaScript%20Nerdwidth='100%'">
+<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLL%20|%20JavaScript%20Nerdwidth='100%'">
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
-Current Product Engineer at **JLL Technologies** with **3+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Current Software Engineer ll at **JLL Technologies** with **3+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
