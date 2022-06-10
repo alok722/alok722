@@ -164,6 +164,7 @@ Current Product Engineer at **JLL Technologies** with **3+** years of experience
 <br/>
 
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
+<p align="center">men at work!</p>
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
