@@ -23,12 +23,11 @@ Current Software Engineer ll at **JLL Technologies** with **3+** years of experi
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [YDKJS — SCOPE &amp; CLOSURES, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-scope-closures-takeaways-for-experienced-javascript-developer-1d571eee5e4?source=rss-e10e116247f8------2)
 - [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
 - [YDKJS — UP &amp; GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
 - [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
 - [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4?source=rss-e10e116247f8------2)
-- [Roadmap to become Web Developer in 2020](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5?source=rss-e10e116247f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with me
