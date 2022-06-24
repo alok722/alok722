@@ -2,7 +2,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=alokraj&style=for-the-badge&url=https://alok722.github.io/alokraj/)](https://alok722.github.io/alokraj/)
+[![Website](https://img.shields.io/website?label=alokraj&style=for-the-badge&url=https://alok722.github.io/)](https://alok722.github.io/)
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
 [![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://alok722.hashnode.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
