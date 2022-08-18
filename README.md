@@ -162,6 +162,7 @@ Current Software Engineer ll at **JLL Technologies** with **3+** years of experi
 
 <br/>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/26534910/185466801-130a08e1-2fe4-4fc3-a5d4-6ea439d4226b.png" /></p>
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
 <p align="center">men at work!</p>
 
