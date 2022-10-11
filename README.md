@@ -14,7 +14,7 @@ Current Software Engineer ll at **JLL Technologies** with **3+** years of experi
 
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-🔥 I'm co-founder of open source initiate [open-devs](website) & [dev11](https://dev11.in).  
+🔥  Co-Founder at [opendevs](https://opendevs.in).  
 🌱 I’m a JavaScript enthusiast and currently all into ReactJS 🧡.  
 💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice 🙌.  
 👯 I’m looking to collaborate with other open source contributor.  
