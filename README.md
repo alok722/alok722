@@ -3,18 +3,18 @@
 <br>
 
 [![Website](https://img.shields.io/website?label=alokraj&style=for-the-badge&url=https://alok722.github.io/)](https://alok722.github.io/)
-[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
 [![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://alok722.hashnode.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
-Current Software Engineer ll at **JLL Technologies** with **3+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+<a href="https://stackoverflow.com/users/9741790/alok-raj" target="_blank"><img src="https://stackoverflow.com/users/flair/9741790.png" width="208" height="58" alt="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
+
+Current Software Engineer ll at **JLL Technologies** with **4+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-🔥  Co-Founder at [opendevs](https://opendevs.in).  
 🌱 I’m a JavaScript enthusiast and currently all into ReactJS 🧡.  
 💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice 🙌.  
 👯 I’m looking to collaborate with other open source contributor.  
