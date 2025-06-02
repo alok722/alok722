@@ -2,8 +2,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=alokraj&style=for-the-badge&url=https://alok722.github.io/)](https://alok722.github.io/)
-[![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://alok722.hashnode.dev)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://alok722.github.io/)](https://alok722.github.io/)
+[![https://alok722.medium.com](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.medium.com/)](https://alok722.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
 
