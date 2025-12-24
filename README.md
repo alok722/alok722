@@ -11,7 +11,7 @@
 
 <a href="https://stackoverflow.com/users/9741790/alok-raj" target="_blank"><img src="https://stackoverflow.com/users/flair/9741790.png" width="208" height="58" alt="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
 
-Current Software Engineer ll at **JLL Technologies** with **4+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Current Software Engineer ll at **JLL Technologies** with **6+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
