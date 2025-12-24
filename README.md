@@ -16,13 +16,14 @@ Current Software Engineer ll at **JLL Technologies** with **6+** years of experi
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
 🌱 I’m a JavaScript enthusiast and currently all into ReactJS 🧡.  
-💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice 🙌.  
+💬 Ask me about React, Angular 7+, Node.js, JavaScript, TypeScript, devops, career or technology advice 🙌.  
 👯 I’m looking to collaborate with other open source contributor.  
-⚡ Fun fact: I think, I am in Love with Javascript.  
+⚡ Fun fact: I think, I am in Love with Javascript.
 
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [YDKJS — SCOPE &amp; CLOSURES, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-scope-closures-takeaways-for-experienced-javascript-developer-1d571eee5e4?source=rss-e10e116247f8------2)
 - [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
 - [YDKJS — UP &amp; GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
