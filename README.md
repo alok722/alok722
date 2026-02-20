@@ -1,24 +1,25 @@
-<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=Product%20Engineer%20@JLL%20|%20JavaScript%20♥&width='100%'">
+<img src="https://github-hero-readme.vercel.app/api?username=alok722&linkedin=alok722&twitter=alok722&description=AI-Augmented%20Senior%20Software%20Engineer%20@JLL%20|%20Generative%20AI%20|%20LLM%20Ops%20|%20React%20|%20Microfrontends&width='100%'">
 
 <br>
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://alok722.github.io/)](https://alok722.github.io/)
-[![https://alok722.medium.com](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.medium.com/)](https://alok722.medium.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
+[![Blog](https://img.shields.io/badge/Blog-Up-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://alok722.medium.com/)
+[![Twitter Follow](https://img.shields.io/badge/Follow-@alok722-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alok722)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
 <a href="https://stackoverflow.com/users/9741790/alok-raj" target="_blank"><img src="https://stackoverflow.com/users/flair/9741790.png" width="208" height="58" alt="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for alok722 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
 
-Current Software Engineer ll at **JLL Technologies** with **6+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+AI-Augmented Senior Software Engineer at **JLL Technologies** with **6+** years of experience building scalable full-stack platforms and intelligent, production-grade applications. Currently contributing to enterprise conversational analytics systems — designing LLM-powered pipelines, multi-agent workflows, and conversational interfaces that transform natural language into structured, actionable insights. Strong foundation in Generative AI, Prompt Engineering, LLM integration, RAG, and AI-assisted development workflows. Deep expertise in the JavaScript ecosystem (React, TypeScript, Node.js) with hands-on experience in microfrontends, distributed systems, and performance optimization. Committed to building secure, accessible, high-performance applications with strong engineering standards. Passionate about applying AI to enhance developer productivity, automate analytical workflows, and enable smarter business decisions.
 
-## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
+## I'm an Indian 🇮🇳, An AI-Augmented Engineer, Full-Stack Builder, and a friend!🙌
 
-🌱 I’m a JavaScript enthusiast and currently all into ReactJS 🧡.  
-💬 Ask me about React, Angular 7+, Node.js, JavaScript, TypeScript, devops, career or technology advice 🙌.  
-👯 I’m looking to collaborate with other open source contributor.  
-⚡ Fun fact: I think, I am in Love with Javascript.
+🤖 Building with Generative AI — LLM integration, RAG, AI Agents, MCP, and Streaming Chat Interfaces.  
+🧠 Passionate about applying AI to enhance developer productivity and automate analytical workflows.  
+💻 Deep expertise in the JavaScript ecosystem — React, TypeScript, Node.js, Microfrontends, and Distributed Systems.  
+👯 I'm looking to collaborate with other open source contributors on AI-powered tools and developer experiences.  
+⚡ Fun fact: I went from loving JavaScript to making LLMs write it for me.
 
 ## 📕 Latest Blog Posts
 
@@ -46,6 +47,19 @@ Current Software Engineer ll at **JLL Technologies** with **6+** years of experi
 <br />
 
 ## 🚀 Languages and Tools
+
+### 👉 AI & GenAI
+
+<p>
+<img alt="Gen AI Concepts" src="https://img.shields.io/badge/Gen%20AI%20Concepts-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="LLM Integration" src="https://img.shields.io/badge/LLM%20Integration-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="RAG" src="https://img.shields.io/badge/RAG-%23FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img alt="MCP" src="https://img.shields.io/badge/Model%20Context%20Protocol-%23764ABC.svg?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-%23FF4500.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Streaming Chat Interfaces" src="https://img.shields.io/badge/Streaming%20Chat%20Interfaces-%230081CB.svg?style=for-the-badge&logo=chatbot&logoColor=white"/>
+</p>
 
 ### 👉 Front-end
 
@@ -124,10 +138,11 @@ Current Software Engineer ll at **JLL Technologies** with **6+** years of experi
 
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img alt="Cursor IDE" src="https://img.shields.io/badge/Cursor%20IDE-000000.svg?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
 <br />
@@ -146,26 +161,16 @@ Current Software Engineer ll at **JLL Technologies** with **6+** years of experi
 <br />
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok722&show_icons=true&locale=en&theme=algolia" alt="alok722" />
-</p>
-<br />
-
-<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
 </p>
-  
-## ⭐ Starred Repository
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=namaste-javascript-notes&show_owner=true&theme=algolia)](https://github.com/alok722/namaste-javascript-notes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate-auth)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
-
-<br/>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/26534910/185466801-130a08e1-2fe4-4fc3-a5d4-6ea439d4226b.png" /></p>
+<p align="center">
+  <a href="https://alok722.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-alok722.github.io-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
-<p align="center">men at work!</p>
+<p align="center"><i>building intelligent systems, one prompt at a time.</i></p>
 
 [website]: https://opendevs.in
 [twitter]: https://twitter.com/alok722
