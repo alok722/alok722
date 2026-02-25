@@ -19,18 +19,7 @@ AI-Augmented Senior Software Engineer at **JLL Technologies** with **6+** years 
 🧠 Passionate about applying AI to enhance developer productivity and automate analytical workflows.  
 💻 Deep expertise in the JavaScript ecosystem — React, TypeScript, Node.js, Microfrontends, and Distributed Systems.  
 👯 I'm looking to collaborate with other open source contributors on AI-powered tools and developer experiences.  
-⚡ Fun fact: I went from loving JavaScript to making LLMs write it for me.
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [YDKJS — SCOPE &amp; CLOSURES, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-scope-closures-takeaways-for-experienced-javascript-developer-1d571eee5e4?source=rss-e10e116247f8------2)
-- [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
-- [YDKJS — UP &amp; GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
-- [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
-- [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4?source=rss-e10e116247f8------2)
-<!-- BLOG-POST-LIST:END -->
+⚡ Fun fact: I architect multi-agent LLM systems by day and obsess over prompt design by night.
 
 ## 🤝 Connect with me
 
@@ -39,7 +28,6 @@ AI-Augmented Senior Software Engineer at **JLL Technologies** with **6+** years 
 <a href="https://twitter.com/alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok722" height="30" width="40" /></a>
 <a href="https://dev.to/alok722" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alok722" height="30" width="40" /></a>
 <a href="https://medium.com/@alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alok722" height="30" width="40" /></a>
-<a href="https://discord.gg/alok722#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a>
 <a href="https://fb.com/alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alok722" height="30" width="40" /></a>
 <a href="https://instagram.com/alok722_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok722_" height="30" width="40" /></a>
 </p>
@@ -59,6 +47,7 @@ AI-Augmented Senior Software Engineer at **JLL Technologies** with **6+** years 
 <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-%23FF4500.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Streaming Chat Interfaces" src="https://img.shields.io/badge/Streaming%20Chat%20Interfaces-%230081CB.svg?style=for-the-badge&logo=chatbot&logoColor=white"/>
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### 👉 Front-end
@@ -101,10 +90,10 @@ AI-Augmented Senior Software Engineer at **JLL Technologies** with **6+** years 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 👉 Database
